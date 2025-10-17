@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:         </h3>
-<h3>Register Number   </h3>
+<h3>Name: Nithin Bilgates C         </h3>
+<h3>Register Number: 2305001022   </h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
@@ -120,11 +120,12 @@ if solution:
     print(f'MONEY = {MONEY}')
 else:
     print("No solution found.")
+
 ```
 
 ## output
 
-![379384647-a35e73a2-1f14-492a-b04d-4764aabfc740](https://github.com/user-attachments/assets/60bdf6c2-ba5f-4fa1-a5a4-b7ef1fde8052)
+<img width="743" height="145" alt="image" src="https://github.com/user-attachments/assets/8c3fca89-9995-4d1a-95d9-421429e7b1e1" />
 
 
 <hr>
